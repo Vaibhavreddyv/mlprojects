@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Performance Portal</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #007bff;
+        }
+
+        .link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to the Exam Performance Portal</h1>
+
+    <p>Explore your student performance and predict your Maths score with our Student Exam Performance Indicator.</p>
+
+    <a class="link-button" href="{{ url_for('predict_datapoint') }}">Go to Student Performance Indicator</a>
+</body>
+
+</html>
