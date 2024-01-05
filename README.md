@@ -61,7 +61,7 @@ The dataset consists of the following features:
 [EDA Notebook](provide_link_here)
 
 *Model Training Approach Notebook:*
-[Model Training Notebook](provide_link_here)
+[Model Training Notebook]((https://github.com/Vaibhavreddyv/mlprojects/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb))
 
 *Model Interpretation with LIME Notebook:*
 [LIME Interpretation Notebook](provide_link_here)
