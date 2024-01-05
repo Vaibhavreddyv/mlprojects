@@ -25,7 +25,7 @@ The dataset consists of the following features:
 *Screenshots :*
 
 - **Homepage UI:** [Screenshot](provide_link_here)
-- **YouTube Video Presentation:** [Video Link](provide_link_here)
+
 
 
 
@@ -58,11 +58,8 @@ The dataset consists of the following features:
      application.
 
 *Exploratory Data Analysis Notebook:*
-[EDA Notebook](provide_link_here)
+[EDA Notebook](https://github.com/Vaibhavreddyv/mlprojects/blob/main/notebook/1%20.%20EDA%20STUDENT%20PERFORMANCE%20.ipynb)
 
 *Model Training Approach Notebook:*
-[Model Training Notebook]((https://github.com/Vaibhavreddyv/mlprojects/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb))
-
-*Model Interpretation with LIME Notebook:*
-[LIME Interpretation Notebook](provide_link_here)
+[Model Training Notebook](https://github.com/Vaibhavreddyv/mlprojects/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
 
